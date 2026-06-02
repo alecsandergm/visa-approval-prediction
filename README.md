@@ -1,6 +1,12 @@
 # visa-approval-prediction
 Machine Learning classification project for visa approval prediction using Python and Scikit-learn
 
+## Project Report
+
+Full project analysis, business problem, code, and outputs:
+
+➡️ [Open Full HTML Project Report](./visa_approval_prediction.html)
+
 ## Business Problem
 
 This project aims to predict visa approval outcomes based on applicant and employment-related information.
