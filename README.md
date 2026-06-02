@@ -5,7 +5,8 @@ Machine Learning classification project for visa approval prediction using Pytho
 
 Full project analysis, business problem, code, and outputs:
 
-➡️ [Open Full HTML Project Report](./visa_approval_prediction.html)
+➡️ Open the HTML report in this repository:
+visa_approval_prediction.html
 
 ## Business Problem
 
@@ -44,3 +45,8 @@ Historical visa application dataset containing applicant and employment-related 
 ## Technologies
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+## Repository Contents
+
+visa_approval_prediction.ipynb → Jupyter Notebook with code and analysis
+visa_approval_prediction.html → Full project report and outputs
