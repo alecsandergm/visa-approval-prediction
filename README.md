@@ -50,3 +50,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 visa_approval_prediction.ipynb → Jupyter Notebook with code and analysis
 visa_approval_prediction.html → Full project report and outputs
+
+### Model Performance
+
+![Confusion Matrix](images/confusion_matrix.png)
