@@ -2,5 +2,5 @@
 
 ### Model Performance
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](./images/confusion_matrix.png)
 
